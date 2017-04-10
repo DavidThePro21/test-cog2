@@ -2,17 +2,17 @@ import discord
 from discord.ext import commands
 
 class Mycog:
-    """My custom cog that does stuff!"""
+    """A fuck messenger"""
 
     def __init__(self, bot):
         self.bot = bot
 
     @commands.command()
     async def mycom(self):
-        """This does stuff!"""
+        """Sends a fuck message"""
 
         #Your code will go here
-        await self.bot.say("I can do stuff!")
+        await self.bot.say("FUCK YOU.")
 
 def setup(bot):
     bot.add_cog(Mycog(bot))
