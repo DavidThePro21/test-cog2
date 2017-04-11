@@ -1,9 +1,9 @@
 {
     "AUTHOR" : "DavidThePro21",
-    "SHORT" : "Says a fuck message",
-    "DESCRIPTION" : "Will send out the f-word :)",
+    "SHORT" : "Says hi.",
+    "DESCRIPTION" : "It will just say hi.",
     "DISABLED" : false,
-    "NAME" : "Fuck",
-    "TAGS" : ["anime", "manga"],
+    "NAME" : "Hi Test",
+    "TAGS" : ["test"],
     "INSTALL_MSG" : "It is done."
 }
